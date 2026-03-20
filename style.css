@@ -1,0 +1,3 @@
+.yellow-cloud {
+  filter: sepia(100%) saturate(300%) hue-rotate(10deg);
+}
